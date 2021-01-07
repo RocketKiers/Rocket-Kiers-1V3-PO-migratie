@@ -1,0 +1,43 @@
+ul{
+  border: 1px solid rgb(0, 200, 255);
+  list-style: inside square none;
+}
+p#nieuw{
+  clear: both;
+  color: rgba(255, 0, 255, 0.916)
+}
+li{
+  display: inline;
+  float: left;
+  border: 1px solid rgb(0, 200, 255);
+  overflow: hidden;
+  margin: 1px;
+  padding: 10px;
+}
+#menu a {
+  color: rgb(0, 200, 255);
+  font-size:15px;
+  text-decoration: none;
+  display: block;
+}
+#menu a:hover{
+  color: rgba(255, 0, 255, 0.916);
+}
+body{
+  background-color: purple;
+  font-color: rgb(0,200,255);  
+}
+h1{
+  clear:both;
+  color:white;
+}
+h3{
+  clear:both;
+  color:white;
+}
+img{
+  border: 5px solid red;
+}
+h4{
+  color:white;
+}
